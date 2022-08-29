@@ -1,6 +1,14 @@
-# React App CLI
+# React Project Template
 
-React + ESLint + Prettier + Vite + TypeScript
+预装依赖
+
+可根据项目要求自行修改
+
+* [React18](https://github.com/facebook/react)
+* [TypeScript](https://github.com/Microsoft/TypeScript)
+* [Vite](http://vitejs.dev/)
+* [ESLint](https://eslint.org/)
+* [Prettier](https://prettier.io/)
 
 ## Introduction
 
